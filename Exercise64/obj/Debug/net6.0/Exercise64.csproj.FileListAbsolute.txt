@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\python\Geekbrains\3. Введение в программирование\Seminar 9\Seminar8_MarlenAlishev_HW\Exercise64\bin\Debug\net6.0\Exercise64.exe
+C:\Users\user\Desktop\python\Geekbrains\3. Введение в программирование\Seminar 9\Seminar8_MarlenAlishev_HW\Exercise64\bin\Debug\net6.0\Exercise64.deps.json
+C:\Users\user\Desktop\python\Geekbrains\3. Введение в программирование\Seminar 9\Seminar8_MarlenAlishev_HW\Exercise64\bin\Debug\net6.0\Exercise64.runtimeconfig.json
+C:\Users\user\Desktop\python\Geekbrains\3. Введение в программирование\Seminar 9\Seminar8_MarlenAlishev_HW\Exercise64\bin\Debug\net6.0\Exercise64.dll
+C:\Users\user\Desktop\python\Geekbrains\3. Введение в программирование\Seminar 9\Seminar8_MarlenAlishev_HW\Exercise64\bin\Debug\net6.0\Exercise64.pdb
+C:\Users\user\Desktop\python\Geekbrains\3. Введение в программирование\Seminar 9\Seminar8_MarlenAlishev_HW\Exercise64\obj\Debug\net6.0\Exercise64.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\python\Geekbrains\3. Введение в программирование\Seminar 9\Seminar8_MarlenAlishev_HW\Exercise64\obj\Debug\net6.0\Exercise64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\python\Geekbrains\3. Введение в программирование\Seminar 9\Seminar8_MarlenAlishev_HW\Exercise64\obj\Debug\net6.0\Exercise64.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\python\Geekbrains\3. Введение в программирование\Seminar 9\Seminar8_MarlenAlishev_HW\Exercise64\obj\Debug\net6.0\Exercise64.AssemblyInfo.cs
+C:\Users\user\Desktop\python\Geekbrains\3. Введение в программирование\Seminar 9\Seminar8_MarlenAlishev_HW\Exercise64\obj\Debug\net6.0\Exercise64.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\python\Geekbrains\3. Введение в программирование\Seminar 9\Seminar8_MarlenAlishev_HW\Exercise64\obj\Debug\net6.0\Exercise64.dll
+C:\Users\user\Desktop\python\Geekbrains\3. Введение в программирование\Seminar 9\Seminar8_MarlenAlishev_HW\Exercise64\obj\Debug\net6.0\refint\Exercise64.dll
+C:\Users\user\Desktop\python\Geekbrains\3. Введение в программирование\Seminar 9\Seminar8_MarlenAlishev_HW\Exercise64\obj\Debug\net6.0\Exercise64.pdb
+C:\Users\user\Desktop\python\Geekbrains\3. Введение в программирование\Seminar 9\Seminar8_MarlenAlishev_HW\Exercise64\obj\Debug\net6.0\Exercise64.genruntimeconfig.cache
+C:\Users\user\Desktop\python\Geekbrains\3. Введение в программирование\Seminar 9\Seminar8_MarlenAlishev_HW\Exercise64\obj\Debug\net6.0\ref\Exercise64.dll
